@@ -45,6 +45,7 @@ Experienced in:
 ![Amplitude](https://img.shields.io/badge/Amplitude-005AF0?style=for-the-badge&logo=amplitude&logoColor=white)
 ![AppMetrica](https://img.shields.io/badge/AppMetrica-FFCC00?style=for-the-badge)
 ![AppsFlyer](https://img.shields.io/badge/AppsFlyer-232F3E?style=for-the-badge)
+![Dax](https://img.shields.io/badge/Dax-232F3E?style=for-the-badge)
 
 ### 🧪 Experimentation & Modeling
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=for-the-badge)
