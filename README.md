@@ -39,13 +39,13 @@ Experienced in:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B46?style=for-the-badge&logo=powerbi&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Amplitude](https://img.shields.io/badge/Amplitude-005AF0?style=for-the-badge&logo=amplitude&logoColor=white)
-![AppMetrica](https://img.shields.io/badge/AppMetrica-FFCC00?style=for-the-badge)
+![AppMetrica](https://img.shields.io/badge/AppMetrica-422B68?style=for-the-badge)
 ![AppsFlyer](https://img.shields.io/badge/AppsFlyer-232F3E?style=for-the-badge)
-![Dax](https://img.shields.io/badge/Dax-232F3E?style=for-the-badge)
+![Dax](https://img.shields.io/badge/Dax-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🧪 Experimentation & Modeling
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=for-the-badge)
