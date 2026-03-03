@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Valerii Klimov 👋</h1>
-<h3 align="center">Product & Data Analyst 
+<h3 align="center">Data Analyst 
 
 ---
 
 ## 🚀 About Me
 
-Product & Data Analyst with experience in retail and digital product environments.
+Data Analyst with experience in retail and digital product environments.
 
 I specialize in client analytics, product funnel optimization, and growth experimentation. 
 My focus is on building metric systems, identifying growth drivers, and translating behavioral data into measurable business impact.
