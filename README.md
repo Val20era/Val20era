@@ -55,6 +55,7 @@ Experienced in:
 ## 🚀 Featured Projects
 - **Campaign Performance Dashboard**  
   `Power BI` · `DAX` · `Marketing Analytics`
+  🔗 [View Repository](https://github.com/Val20era/Campaign-Performance-Dashboard)
 ---
 ## 🤝 Connect with Me
 
