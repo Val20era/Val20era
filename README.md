@@ -54,7 +54,7 @@ Experienced in:
 ## 🚀 Featured Projects
 
 ### 📈 Growth & Marketing Analytics
-- Marketing Performance & Campaign Analytics Dashboard
+- Campaign Performance Dashboard
 
 ---
 ## 🤝 Connect with Me
