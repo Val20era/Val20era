@@ -52,10 +52,8 @@ Experienced in:
 ---
 
 ## 🚀 Featured Projects
-
-### 📈 Growth & Marketing Analytics
-- Campaign Performance Dashboard
-
+- **Campaign Performance Dashboard**  
+  `Power BI` · `DAX` · `Marketing Analytics`
 ---
 ## 🤝 Connect with Me
 
